@@ -9,6 +9,10 @@ body {
     font-family: "Sriracha", Roboto, sans-serif;
 }
 
+span.rowTwo {
+font-family: Roboto;
+}
+    
 h1 {
     text-align: center;
 }
